@@ -23,7 +23,7 @@ This is the beginning of a library for you to connect your ESP32 to your new MQT
 - Copy ***src/main.cpp*** into a new folder where the folder and filename match, such as ***publish/publish.ino***
 - Download PubSubClient.h using the Arduino IDE Library Manager
 
-Send a note if you have any questions about how to use this code
+Send a note if you have any questions about how to use this code.
 
 ## About
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
