@@ -1,9 +1,8 @@
 # MQTT: ESP32 Publish <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 ## Overview
-This is the beginning of a library for you to connect your ESP32 to your new MQTT broker (Mosquitto).  The code is explained in the YouTube video [MQTT - ESP32 Publish Using PubSubClient.h](https://www.youtube.com/watch?v=ahzX8AzNy48).
+This code is set up to get you connecting and then publishing to the MQTT broker of your choice.  The logic is explained in the YouTube video [MQTT - ESP32 Publish Using PubSubClient.h](https://www.youtube.com/watch?v=ahzX8AzNy48).
 
-https://www.youtube.com/watch?v=Jgq480yQDJo
 
 👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on "All Things IoT": hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
