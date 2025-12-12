@@ -1,6 +1,6 @@
 
 
-#define CHECK_INTERVAL 3000
+
 
 class Scheduler {
 
