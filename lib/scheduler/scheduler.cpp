@@ -7,14 +7,14 @@ Scheduler::Scheduler() {}
 
 Scheduler scheduler;
 
-void Scheduler::begin(int sda, int scl) {
-	// add any required setup code here
+void Scheduler::begin() {
+	// modify as needed (initialize sensor libraries, for instance)
 }
 
 void Scheduler::check() {
 	if (millis() - _check_timer > CHECK_INTERVAL) {
-		// create your own payload here, and then uncomment below to publish
-		// mqtt.publish("temp", payload);
+		float temperature = 70.0 + (random(0, 100) / 100.0);
+		mqtt.publish("temperature", temperature);
 		_check_timer = millis();
 	}
 }
