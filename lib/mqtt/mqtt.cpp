@@ -1,7 +1,5 @@
 #include "mqtt.h"
 
-#define CLIENT_ID "test_device"
-
 Mqtt::Mqtt() {}
 
 Mqtt mqtt;
