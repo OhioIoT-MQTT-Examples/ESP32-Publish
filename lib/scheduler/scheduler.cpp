@@ -1,7 +1,7 @@
 #include "scheduler.h"
 #include "mqtt.h"
 
-#define CHECK_INTERVAL 3000
+#define CHECK_INTERVAL 1000
 
 Scheduler::Scheduler() {}
 
