@@ -8,7 +8,7 @@ class Scheduler {
 
 		Scheduler();
 
-		void begin(int, int);
+		void begin();
 		void check();
 
 	private:

@@ -10,7 +10,7 @@ void setup() {
 	Serial.println("\n\tawake...");
 	wifi_tools.enable_logging();
 	mqtt.enable_logging();
-	scheduler.begin(22, 21);
+	scheduler.begin();
 	wifi_tools.begin(WIFI_SSID, WIFI_PASS);
 	mqtt.setup(MQTT_HOST, MQTT_PORT);
 }
