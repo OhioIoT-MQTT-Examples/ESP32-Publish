@@ -1,4 +1,4 @@
-# MQTT: ESP32 Publish <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
+# MQTT: ESP32 Publish <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
 ## Overview
 This code is set up to get you connecting and then publishing to the MQTT broker of your choice.  The logic is explained in the YouTube video [MQTT - ESP32 Publish Using PubSubClient.h](https://www.youtube.com/watch?v=ahzX8AzNy48).
